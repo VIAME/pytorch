@@ -117,4 +117,4 @@
 [submodule "android/libs/fbjni"]
     ignore = dirty
     path = android/libs/fbjni
-    url = https://github.com/facebookincubator/fbjni.git
+    url = https://github.com/VIAME/fbjni.git
